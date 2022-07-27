@@ -9,8 +9,7 @@
            fetch="ssh://git@github.com" />
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
-           review="android-review.googlesource.com"
+           fetch="https://aosp.tuna.tsinghua.edu.cn"
            revision="refs/tags/android-10.0.0_r41" />
 
   <default revision="refs/heads/lineage-17.1"
